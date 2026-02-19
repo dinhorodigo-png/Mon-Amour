@@ -32,11 +32,11 @@ $("#fecharCarta").addEventListener("click", () => modalCarta.close());
 
 // Outra surpresa (só troca texto)
 const frases = [
-  "Você é meu pedacinho de paz 💗",
-  "Seu sorriso melhora meu dia inteiro 😊",
-  "Que hoje seja doce igual você 🍰",
-  "Você é raridade boa ✨",
-  "Te amo mais que ontem e menos que amanhã ♾️"
+  "Você é minha paz",
+  "Seu sorriso melhora meu dia",
+  "Que hoje seja incrível",
+  "Obrigado por estar ao meu lado",
+  "Te amo mais que tudo, meu amor"
 ];
 $("#btnOutro").addEventListener("click", () => {
   const el = $("#textoSurpresa");
